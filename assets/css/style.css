@@ -1,0 +1,66 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight;
+    color: #3a3a3a
+    
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+   
+  
+}
+#logo {
+    float: left;
+    font-size: 200%;
+    color: lightpink;
+
+}
+
+/* navigation links*/
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+
+}
+
+#menu, #logo{
+    line-height: 75px;
+
+}
+
+#menu li {
+    float: right;
+    list-style: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+
+}
+
+#menu a:hover{
+    border-bottom: 1px solid #3a3a3a;
+
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+    
+}
+
+#main-image {
+    height: 600px;
+    width: 100%;
+    background: url('../image/whipped-cakes-and-bakes.jpg');
+
+}
+
+
+
+
