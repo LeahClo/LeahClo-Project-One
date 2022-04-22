@@ -1,7 +1,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    font-weight;
-    color: #3a3a3a
+    color:#3a3a3a;
+    
     
 }
 
@@ -16,6 +16,8 @@ h1 {
     float: left;
     font-size: 200%;
     color: lightpink;
+    position: relative;
+    margin: 10px;
 
 }
 
@@ -61,6 +63,28 @@ h1 {
 
 }
 
+/* footer */
 
+footer {
+    height: 100px;
+
+}
+
+.social-media {
+    text-align: center;
+
+}
+
+.social-media >li {
+    display: inline;
+
+}
+
+.social-media i {
+    font-size: 140%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
 
 
