@@ -63,6 +63,20 @@ h1 {
 
 }
 
+.about-me {
+    .reasons-box {
+        padding: 10px 5px 25px 5px;
+        border-radius: 8px;
+        width: 100%;
+        margin: 2%;
+        background-color: chocolate;
+        position: relative;
+        left: 20%;
+        top: 30px;
+    }
+
+}
+
 /* footer */
 
 footer {
@@ -75,6 +89,20 @@ footer {
 
 }
 
+/* gallery */
+
+#photos {
+    clear: both;
+    line-height: 0px;
+    column-count: 4;
+    column-gap: 0px;
+    
+}
+
+#photos > img {
+    width: 100%;
+}
+
 .social-media >li {
     display: inline;
 
@@ -85,6 +113,12 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
+}
+
+/* Pricelist and Flavours */
+
+#pricelist_flavours {
+    
 }
 
 
