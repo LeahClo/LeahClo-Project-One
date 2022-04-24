@@ -60,32 +60,38 @@ h1 {
     height: 600px;
     width: 100%;
     background: url('../image/whipped-cakes-and-bakes.jpg');
-
 }
 
-.about-me {
-    .reasons-box {
-        padding: 10px 5px 25px 5px;
-        border-radius: 8px;
-        width: 100%;
-        margin: 2%;
-        background-color: chocolate;
-        position: relative;
-        left: 20%;
-        top: 30px;
-    }
 
+/* About Me*/
+
+.about-me { 
+    width: 500px;
+    height: 3o0px;
+    padding: 30px;
+    border-style: solid;
+    color: #3a3a3a;
+    border-color: white;
+    border-width: 5px;
+    margin: 0 auto;
+    font-size: 20px;
 }
 
 /* footer */
 
 footer {
-    height: 100px;
-
+   
+	padding: 1em;
+	text-align: center;
+    width: 100%;
+    bottom: 0;
+    right: 0;
 }
 
 .social-media {
     text-align: center;
+    bottom: 0 px;
+    
 
 }
 
@@ -121,4 +127,12 @@ footer {
     
 }
 
+
+/* map */
+#map-wrapper {
+
+    height: 300px;
+    margin-bottom: 100px;
+    border: none;
+}
 
