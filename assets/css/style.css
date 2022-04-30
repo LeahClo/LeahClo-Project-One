@@ -7,6 +7,8 @@ body { font-family: Arial;
     letter-spacing : 3px;
     }
 
+    /*headings and logo*/
+
     header {
     padding : 1rem 0;
     }
@@ -48,6 +50,8 @@ body { font-family: Arial;
     border-bottom : 1px solid #3a3a3a;
     }
 
+    /*about me section*/
+
     .about-me {
     margin-top : 100px;
     padding : 1rem 0;
@@ -59,23 +63,7 @@ body { font-family: Arial;
     font-size : 20px;
     }
 
-    #cupcakes-collage {
-    height : 400px;
-    width : 100%;
-    background : url(../image/collage.jpg) center center no-repeat;
-    animation-name : cupcakes-zoom;
-    animation-duration : 5s;
-    animation-fill-mode : forwards;
-    }
-
-    @keyframes cupcakes-zoom {
-    from {
-    transform : scale(1);
-    }
-    to {
-    transform : scale(1.1);
-    }
-    }
+    /* contact section */
 
     .contact-section {
     clear : left;
@@ -117,6 +105,8 @@ body { font-family: Arial;
     display : block;
     }
 
+    /*map section*/
+
     #map-wrapper {
     height : 300px;
     margin-bottom : 100px;
@@ -127,6 +117,8 @@ body { font-family: Arial;
     width : 100%;
     border : none;
     }
+
+    /*footer */
 
     footer {
     padding : 1em;
@@ -148,6 +140,8 @@ body { font-family: Arial;
     margin : 1%;
     padding : 5%;
     }
+
+    /*gallery*/
 
     .gallery-head {
     padding : 5rem;
@@ -176,6 +170,8 @@ body { font-family: Arial;
     color : #3a3a3a;
     }
 
+    /*price list page*/
+
     .price-head {
     padding : 6rem;
     text-align : center;
@@ -196,46 +192,52 @@ body { font-family: Arial;
     text-decoration : underline;
     }
 
-    @media screen and (max-width: 1200px) {
-    #menu {
-    padding-bottom : 20px;
-    }
+    /*media queries*/
 
-    .price-head {
-    padding-top : 20px;
-    margin-left : 10px;
-    margin-bottom : 10px;
-    line-height : 25px;
-    }
-    }
+    @media screen and (max-width: 1028px) {
+        #logo {
+            font-size: 30px;
+        }
 
-    @media screen and (max-width: 950px) {
-    #menu {
-    float : none;
-    display : block;
-    text-align : left;
-    }
+        #menu {
+            font-size: 15px;
+        }
+      .about-me{
+          padding-top: 20px 0;
+          
+      }
 
-    .about-me {
-    padding-top : 40px;
-    margin-bottom : 10px;
-    line-height : 25px;
-    }
+      
 
-    .price-head {
-    padding-top : 20px;
-    margin-left : 10px;
-    margin-bottom : 10px;
-    line-height : 25px;
-    }
-    }
-    
-    @media screen and (max-width: 800px) {
-    #photos {
-    column-count : 2;
-    }
-    #menu {
-    margin-bottom : 20px;
-    clear : left;
-    }
-    }
+      @media screen and (max-width: 921px) {
+
+        #logo {
+            float: center;
+        }
+        #menu {
+            
+            float: left;
+        }
+
+        .about-me {
+            float: left;
+        }
+
+          
+      }
+
+      @media screen and (max-width: 541px) {
+           #logo {
+               font-size: 25px;
+                   
+               }
+           }
+      }
+
+      @media screen and (max-width: 480px) {
+          #menu {
+              float: left;
+              
+          }
+      }
+
