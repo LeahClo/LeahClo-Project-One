@@ -29,3 +29,7 @@ The gallery page offers the user visuals on the work done at Whipped Cakes and B
 ### Footer Section
 
 The footer section provides links to the Whipped Cakes and Bakes Instagram and Facebook pages. This footer is carried among the 3 pages on the website and so the social media pages can be quickly accessed by the user.
+
+## Testing
+
+I tesed this website using different browsers such as Chrome and Internet Explorer. I have confirmed that the social media links and navigation sections are all working appropriately. I have also confirmed that the form works.

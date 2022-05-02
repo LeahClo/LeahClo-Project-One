@@ -194,18 +194,7 @@ body { font-family: Arial;
 
     /*media queries*/
 
-    @media screen and (max-width: 1028px) {
-        #logo {
-            font-size: 30px;
-        }
-
-        #menu {
-            font-size: 15px;
-        }
-      .about-me{
-          padding-top: 20px 0;
-          
-      }
+    
 
       
 
@@ -223,6 +212,7 @@ body { font-family: Arial;
             float: left;
         }
 
+        
           
       }
 
@@ -231,6 +221,12 @@ body { font-family: Arial;
                font-size: 25px;
                    
                }
+               .price-head {
+                clear: both;
+                margin-top: 5px;
+
+            }
+    
            }
       }
 
