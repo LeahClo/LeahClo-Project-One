@@ -201,7 +201,7 @@ body { font-family: Arial;
       @media screen and (max-width: 921px) {
 
         #logo {
-            float: center;
+            float: left;
         }
         #menu {
             
@@ -209,12 +209,24 @@ body { font-family: Arial;
         }
 
         .about-me {
-            float: left;
+            clear: both;
+            margin-top: 5px;
+
         }
 
+        .price-head {
+            clear: both;
+            margin-top: 5px;
         
           
       }
+
+      .gallery-head {
+        clear: both;
+        margin-top: 5px;
+    
+      
+  }
 
       @media screen and (max-width: 541px) {
            #logo {
@@ -226,6 +238,10 @@ body { font-family: Arial;
                 margin-top: 5px;
 
             }
+
+            #photos {
+                column-count: 3;
+            }
     
            }
       }
@@ -234,6 +250,10 @@ body { font-family: Arial;
           #menu {
               float: left;
               
+          }
+
+          #photos {
+              column-count: 2;
           }
       }
 
