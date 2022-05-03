@@ -1,6 +1,6 @@
 # Whipped Cakes and Bakes
 
-The Whipped Cakes and Bakes website was created for a dear friend of mine, Morrigan. The purpose of this website is to provide another source for her to showcase her work, promote her social media pages and to allow customers to get in touch.
+The Whipped Cakes and Bakes website was created for a dear friend of mine, Morrigan. The purpose of this website is to provide an additional source for her to showcase her work, promote her social media pages and to allow customers to get in touch.
 
 Users of this website will be able to view prices, flavours of cakes, view photos of some of the work done at Whipped Cakes and Bakes, access links to social media and get in touch directly using the form section.
 
@@ -57,17 +57,17 @@ I tesed this website using different browsers such as Chrome and Internet Explor
 
 ![img](../LeahClo-Project-One/assets/image/HTML%20no%20errors.PNG)
 
-- CSS: No errors were found on CSS testing. for testing, I used The W3C CSS Validator.
+- CSS: No errors were found on CSS testing. For testing, I used The W3C CSS Validator.
 
 ![img](../LeahClo-Project-One/assets/image/CSS%20Errors.PNG)
 
-- Accessibility: I confirmed accessibility using by running this throught lighthouse on devtools.
+- Accessibility: I confirmed accessibility by running this through lighthouse on devtools.
 
 ![img](../LeahClo-Project-One/assets/image/Accessibility.PNG)
 
 ### Deployment
 
-The site was deployed by implementing the dollowing steps: 
+The site was deployed by implementing the following steps: 
 
 - Navigate to the Settings tab on Github and find the Pages section
 - On the source section dropdown, select Main
@@ -81,5 +81,5 @@ The credits for all of the images used have been sourced from the Whipped Cakes 
 
 ## Content
 
-A source I found helpful in assisting me in coding some of my contect was [w3schools](https://www.w3schools.com/html/html_examples.asp)
+A source I found helpful in assisting me in coding some of my content was [w3schools](https://www.w3schools.com/html/html_examples.asp)
 
