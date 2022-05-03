@@ -4,7 +4,7 @@ The Whipped Cakes and Bakes website was created for a dear friend of mine, Morri
 
 Users of this website will be able to view prices, flavours of cakes, view photos of some of the work done at Whipped Cakes and Bakes, access links to social media and get in touch directly using the form section.
 
-![img](../LeahClo-Project-One/assets/image/Whipped%20Responsive.PNG)
+![img](assets/image/Whipped_responsive.PNG)
 
 
 ## Features
@@ -12,8 +12,7 @@ Users of this website will be able to view prices, flavours of cakes, view photo
 - ### Navigation
 At the top of the page, we can find the business name in the left hand corner. To the right of this, the user will find the navigation links Home Page, Price List and Gallery.
 
-![img](../LeahClo-Project-One/assets/image/Header.PNG)
-
+![screenshot](.)
 ### About Me Section
 This section provides a brief introduction to Morrigan, to the type of service she provides and the types of events that she caters for. It offers the user some useful information on how they can get in touch if they wish to place an order with Whipped Cakes and Bakes. This sections also contains a background image of the Whipped Cakes and Bakes company logo.
 
