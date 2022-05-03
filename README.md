@@ -12,39 +12,41 @@ Users of this website will be able to view prices, flavours of cakes, view photo
 - ### Navigation
 At the top of the page, we can find the business name in the left hand corner. To the right of this, the user will find the navigation links Home Page, Price List and Gallery.
 
-![screenshot](.)
+![img](assets/image/Header.PNG)
+
+
 ### About Me Section
 This section provides a brief introduction to Morrigan, to the type of service she provides and the types of events that she caters for. It offers the user some useful information on how they can get in touch if they wish to place an order with Whipped Cakes and Bakes. This sections also contains a background image of the Whipped Cakes and Bakes company logo.
 
-![img](../LeahClo-Project-One/assets/image/About-Me.PNG)
+![img](assets/image/About_me.PNG)
 
 ### Form Section
 The form section allows the user to input their name, email address and write a message.
 
-![img](../LeahClo-Project-One/assets/image/Form.PNG)
+![img](assets/image/Form.PNG)
 
 ### Map Section
 The map section provides the user with a Google Maps location on where the business is run from. It can allow the user the opportunity to get directions should they be collecting their orders. There is also an option to click on the map image and view the map larger.
 
-![img](../LeahClo-Project-One/assets/image/Map.PNG)
+![img](assets/image/Map.PNG)
 
 ### Price List Page
 
 This page provides the user with all of the information they may need in terms of the types of bakes goods which can be purchased, flavours and popular combinations, and probably most important of all, the cost.
 
-![img](../LeahClo-Project-One/assets/image/Pricelist.PNG)
+![img](assets/image/Pricelist.PNG)
 
 ### Gallery Page
 
 The gallery page offers the user visuals on the work done at Whipped Cakes and Bakes. It gives the user an idea of the styles of cakes and cupcakes and really showcases the amazing work done by Morrigan.
 
-![img](../LeahClo-Project-One/assets/image/Gallery.PNG)
+![img](assets/image/Gallery.PNG)
 
 ### Footer Section
 
 The footer section provides links to the Whipped Cakes and Bakes Instagram and Facebook pages. This footer is carried among the 3 pages on the website and so the social media pages can be quickly accessed by the user.
 
-![img](../LeahClo-Project-One/assets/image/Footer.PNG)
+![img](assets/image/Footer.PNG)
 
 ## Testing
 
@@ -54,15 +56,15 @@ I tesed this website using different browsers such as Chrome and Internet Explor
 
 - HTML: An initial error was found on a Stray End Tag but this was then resolved and no further warnings or errors were found. For testing, I used The W3C HTML Validator.
 
-![img](../LeahClo-Project-One/assets/image/HTML%20no%20errors.PNG)
+![img](assets/image/HTML_no_errors.PNG)
 
 - CSS: No errors were found on CSS testing. For testing, I used The W3C CSS Validator.
 
-![img](../LeahClo-Project-One/assets/image/CSS%20Errors.PNG)
+![img](assets/image/CSS_Errors.PNG)
 
 - Accessibility: I confirmed accessibility by running this through lighthouse on devtools.
 
-![img](../LeahClo-Project-One/assets/image/Accessibility.PNG)
+![img](assets/image/Accessibility.PNG)
 
 ### Deployment
 
